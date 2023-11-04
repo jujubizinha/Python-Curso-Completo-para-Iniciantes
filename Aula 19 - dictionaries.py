@@ -43,3 +43,4 @@ print(f"Evolução: {pokemons['004']['Evolução']}")
 print(f"Fraquezas: {', '.join(pokemons['004']['Fraquezas'])}")
 print(f"Ataques: {', '.join(pokemons['004']['Ataques'])}")
 
+
